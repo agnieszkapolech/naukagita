@@ -3,9 +3,15 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+<<<<<<< HEAD
 
-   public void logowanieoogle() {
+   public void logowanieGoogle() {
         System.out.println("Podaj email z Gmaila");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+ public void logowanieMicrosoft() {
+        System.out.println("Podaj nazwę użytkownika Microsoft");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }  
